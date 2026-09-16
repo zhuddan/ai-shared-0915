@@ -12,7 +12,17 @@ class: text-center
 
 <p>聊聊我是怎么写提示词的</p>
 
-<p style="font-size: 10px;">非PRD/PLAN模式下</p>
+---
+
+## 注意
+
+<br>
+
+- 高级提示词工程师
+- 不涉及太多具体工具/创建
+- 因人而异
+
+<p>欢迎分享交流</p>
 
 ---
 
@@ -20,11 +30,15 @@ class: text-center
 
 <br>
 
+<v-clicks>
+
 1. 规范输入
 2. 约束生成
 3. 明确验收
 4. 沉淀 Skill
 5. 定期复盘
+
+</v-clicks>
 
 ---
 
@@ -41,7 +55,7 @@ class: text-center
 ---
 
 ## 普通需求
-
+<br>
 <v-click>
 ❌错误示例：
 
@@ -50,7 +64,7 @@ class: text-center
 列表中展示用户名、姓名、手机号、状态和创建时间，操作成功后给出提示。
 ```
 </v-click>
-
+<br>
 <v-click>
 ✅优化示例：
 
@@ -78,7 +92,7 @@ class: text-center
 - 复现步骤
 - 错误信息或数据示例
 
-
+<br>
 <v-click>
 ❌错误示例：
 
@@ -87,7 +101,7 @@ class: text-center
 ```
 </v-click>
 
-
+<br>
 <v-click>
 ✅优化示例：
 
@@ -191,7 +205,6 @@ class: text-center
 [yth-api/SKILL.md](vscode://file/Users/zd/.agents/skills/yth-api/SKILL.md)
 
 ---
-
 # 5. 定期复盘：把经验变成下一次的规则
 
 **复盘变成规则**
