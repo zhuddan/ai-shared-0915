@@ -259,7 +259,7 @@ class: text-center
 1. AGENTS.md `/init` ------------ 少
 <br>
 
-> 英文化提示词 (国外ai) / 非主动触发 `skill` / 
+> 英文化提示词 (国外ai) / 主动触发 `skill` / 
 
 2. 具体任务 ------------ 多
 <br>
